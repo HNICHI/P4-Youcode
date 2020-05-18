@@ -15,8 +15,9 @@ Nous visons à prendre en charge les deux dernières versions des navigateurs su
 <span align="center">
 
 ![bouchra](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/bouchra-03.png) 
-![Sara](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/sara-03.png)
 ![ayoub](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/ayoub-circle_2.png)
+![Sara](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/sara-03.png)
+
 </span>
 
 
